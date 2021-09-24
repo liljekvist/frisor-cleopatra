@@ -1,5 +1,6 @@
 # <p align="center">Frisör Cleopatra</p>
 <p align="center">This is a fork of the website as it was when we switched projects.</p>
+
 ## <p align="center">Table of contents</p>
 [<p align="center">General Info</p>](#general-info)
 [<p align="center">Current website view Desktop</p>](#Current-website-view-Desktop)
